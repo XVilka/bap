@@ -1,0 +1,4 @@
+PKG cmdliner
+PKG re.pcre
+B ../../_build/plugins/radare2
+REC
